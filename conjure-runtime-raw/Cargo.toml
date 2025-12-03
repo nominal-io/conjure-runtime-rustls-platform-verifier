@@ -23,7 +23,6 @@ autobenches = false
 description = "An HTTP client compatible with Conjure-generated services"
 readme = "README.md"
 license = "Apache-2.0"
-repository = "https://github.com/palantir/conjure-rust-runtime"
 resolver = "2"
 
 [lib]

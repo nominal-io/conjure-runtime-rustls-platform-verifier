@@ -4,7 +4,7 @@ conjure-runtime-raw (fork)
 Copyright 2025 Nominal, Inc
 
 This product includes software originally developed by Palantir Technologies, Inc.
-The original work is available at: https://github.com/palantir/conjure-runtime
+The original work is available at: https://github.com/palantir/conjure-rust-runtime
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
