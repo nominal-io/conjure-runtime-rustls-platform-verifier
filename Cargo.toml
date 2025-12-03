@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+
+members = ["conjure-runtime-rustls-platform-verifier", "conjure-runtime-raw"]
+
+[workspace.dependencies]
+conjure-runtime = "6"
